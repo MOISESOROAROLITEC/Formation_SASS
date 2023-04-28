@@ -8,3 +8,5 @@ package-lock.json
 
 *.scss
 main.scss
+
+trillio/sass/main.scss
