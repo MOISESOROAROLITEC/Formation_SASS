@@ -1,2 +1,10 @@
-advanced-css-course/
+node_modules/
+advanced-css/
 .sass-cache/
+
+package-lock.json
+
+*.*.css
+
+*.scss
+main.scss
