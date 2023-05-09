@@ -13,7 +13,7 @@
 		"build:css": "npm-run-all compile:sass prefix:css compress:css"
 	},
 	"author": "SORO COLOTCHOLOMAN",
-	"license": "ISC",
+	"license": "GPL",
 	"devDependencies": {
 		"autoprefixer": "^7.1.4",
 		"concat": "^1.0.3",
