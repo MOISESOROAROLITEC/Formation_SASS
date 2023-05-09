@@ -6,7 +6,4 @@ package-lock.json
 
 *.*.css
 
-*.scss
-main.scss
 
-trillio/sass/main.scss
